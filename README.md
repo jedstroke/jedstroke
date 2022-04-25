@@ -1,4 +1,6 @@
-# Jedidiah Gabriel 😎
+# Jedidiah Gabriel 😎 
+
+[jedshock.com](https://jedshock.com)
 
 cluster of atoms • fullstack developer • poet • metal head • scientist • dynamist • materialist 
 #
@@ -14,7 +16,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 ## I work with
 
 - ### Frontend Development
-   React, React Native, Flutter, Ionic, ElectronJS.
+   React, Next.js, React Native, Flutter, Ionic, ElectronJS.
 - ### Backend Development
    NodeJS (Express), PHP (Laravel), Python (Flask & Django). 
 
