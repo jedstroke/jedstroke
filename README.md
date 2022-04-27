@@ -2,7 +2,7 @@
 
 [jedshock.com](https://jedshock.com)
 
-cluster of atoms • fullstack developer • poet • metal head • scientist • dynamist • materialist 
+Cluster of Atoms • Fullstack Developer • Poet • Metal Head • Scientist • Dynamist • Materialist 
 #
 
 ### I am open to:
@@ -18,7 +18,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 - ### Frontend Development
    React, Next.js, React Native, Flutter, Ionic, ElectronJS.
 - ### Backend Development
-   NodeJS (Express), PHP (Laravel), Python (Flask & Django). 
+   NodeJS (Pro Express<b>er</b>), PHP (Mid-level in Laravel & But a beast in writing from scratch), Python (FastAPI). 
 
 ## What I'm Working on Currently
 
