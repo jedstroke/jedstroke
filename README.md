@@ -1,6 +1,6 @@
 # Jedidiah Gabriel 🧔🏽 
 
-[jedshock.com/](https://jedshock.com)
+[<jedshock.com/>](https://jedshock.com)
 
 Cluster of Atoms • Fullstack Developer • Poet • Metal Head • Scientist • Dynamist • Materialist 
 #
