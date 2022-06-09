@@ -18,7 +18,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 - ### Frontend Development
    React, Next.js, React Native, Flutter, Ionic, ElectronJS.
 - ### Backend Development
-   NodeJS (Pro Express<b>er</b>), PHP (Mid-level in Laravel & But a beast in writing from scratch), Python (FastAPI). 
+   NodeJS (Pro Express<b>er</b>), PHP (Hate Laravel 🙈), Python (FastAPI). 
 
 ## What I'm Working on Currently
 
