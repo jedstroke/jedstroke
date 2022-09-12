@@ -1,6 +1,6 @@
 # Jedidiah Gabriel 🧔🏽 
 
-[<For Joan/>](https://joan.onrender.com)
+[<For_Joan/>](https://joan.onrender.com)
 
 Cluster of Atoms • Fullstack Developer • Poet • Metal Head • Scientist • Dynamist • Materialist 
 #
