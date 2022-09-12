@@ -1,6 +1,6 @@
 # Jedidiah Gabriel 🧔🏽 
 
-[<jedshock.com/>](https://jedshock.com)
+[<For Joan/>](https://joan.onrender.com)
 
 Cluster of Atoms • Fullstack Developer • Poet • Metal Head • Scientist • Dynamist • Materialist 
 #
@@ -22,4 +22,4 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 
 ## Hit me up
 
-[holla@jedshock.com](mailto:holla@jedshock.com)
+[jeddygabriel@gmail.com](mailto:jeddygabriel@gmail.com)
