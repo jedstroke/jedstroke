@@ -8,7 +8,7 @@ USDT ERC20:
 ```
 0x968232075FD8281655318A4E70802AE1C16cFa9f
 ```
-Kuda Bank (JEDIDIAH ENYOJO GABRIEL) —— ₦50,000 max deposit at a time, ₦300,000 capcity:
+Kuda Bank (JEDIDIAH ENYOJO GABRIEL) — ₦50,000 max deposit at a time, ₦300,000 capcity:
 ```
 2009107582
 ```
