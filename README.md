@@ -1,14 +1,23 @@
 # Jedidiah Gabriel 🧔🏽 
 
-[<For_Joan/>](https://joan.onrender.com)
+USDT ERC20:
+```
+0x968232075FD8281655318A4E70802AE1C16cFa9f
+```
+Kuda Bank (JEDIDIAH GABRIEL ENYOJO):
+```
+2009107582
+```
+
+[<ForJoan/>](https://joan.onrender.com)
 
 Cluster of Atoms • Fullstack Developer • Poet • Metal Head • Scientist • Dynamist • Materialist 
 #
 
 ### I am open to:
-- Work oppurtunities 
-- One on one tutorial
-- Collaborate and build something interesting 🤓
+- Work oppurtunities (gigs, offers and more).
+- One on one tutorial.
+- Collaborate and build something interesting.
 
 If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedshock) or [Whatsapp](https://wa.me/+2348140066686)
 
@@ -16,10 +25,11 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 ## I work with
 
 - ### Frontend Development
-   React, Angular, Next.js, React Native, Flutter, Ionic, ElectronJS.
+   React, Angular, Next.js, React Native, Flutter (noob), Ionic, ElectronJS.
 - ### Backend Development
    NodeJS (Express), PHP (LeafPHP), Python (FastAPI). 
-
+- ### Cloud Computing
+   GCP, Cloud Run, Firestore, Cloud Function. 
 ## Hit me up
 
 [jeddygabriel@gmail.com](mailto:jeddygabriel@gmail.com)
