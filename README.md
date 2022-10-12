@@ -24,7 +24,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 
 [jeddygabriel@gmail.com](mailto:jeddygabriel@gmail.com)
 
-## Wanna bless your boy 😁
+## Buy a beer 😁
 USDT ERC20:
 ```
 0x968232075FD8281655318A4E70802AE1C16cFa9f
