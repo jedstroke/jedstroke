@@ -24,6 +24,9 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 
 [jeddygabriel@gmail.com](mailto:jeddygabriel@gmail.com)
 
+## See my CV
+[Résumé](https://drive.google.com/file/d/16DSFQk68GLHpjPXBrS-yMiOXj_Jnd6Kg/view?usp=sharing)
+
 ## Buy a beer 😁
 USDT ERC20:
 ```
