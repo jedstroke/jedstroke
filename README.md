@@ -2,7 +2,7 @@
 
 [Everything I Do Is For Joan](https://joan.onrender.com)
 
-Cluster of Atoms • Fullstack Developer • Poet • Metal Head • Scientist • Dynamist • Materialist 
+Cluster of Atoms • Fullstack Developer • Poet • Metal Head • Scientist • Dynamist • Materialist (It's all that matters)
 
 ### I am open to:
 - Work oppurtunities (gigs, offers and more).
