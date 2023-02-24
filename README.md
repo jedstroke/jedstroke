@@ -19,7 +19,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 - ### Backend Development
    NodeJS (Express), PHP (LeafPHP), Python (FastAPI). 
 - ### Cloud Computing
-   GCP, Cloud Run, Firestore, Cloud Function. 
+   GCP, Cloud Run, Firestore, Cloud Function, AWS, AWS Fargate, Kubernetes. 
 ## Hit me up
 
 [jeddygabriel@gmail.com](mailto:jeddygabriel@gmail.com)
