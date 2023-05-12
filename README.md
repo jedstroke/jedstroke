@@ -30,6 +30,6 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 ## Buy a beer 😁
 USDT ERC20:
 ```
-0x968232075FD8281655318A4E70802AE1C16cFa9f
+0xdb7295b36236d766200d5382f26170b8db7bf9df
 ```
 
