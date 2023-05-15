@@ -9,7 +9,7 @@ I am an innovative and hardworking young man who hopes to live for a cause bigge
 - One on one tutorial.
 - Collaborate and build something interesting.
 
-If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedshock) or [Whatsapp](https://wa.me/+2348140066686)
+If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedshock)
 
 
 ## I work with
@@ -20,9 +20,6 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
    NodeJS (Express), PHP (LeafPHP), Python (FastAPI). 
 - ### Cloud Computing
    GCP, Cloud Run, Firestore, Cloud Function, AWS, AWS Fargate, Kubernetes. 
-## Hit me up
-
-[jeddygabriel@gmail.com](mailto:jeddygabriel@gmail.com)
 
 ## See my CV
 [Résumé](https://drive.google.com/file/d/1NA3VRqWrS9iq2JF7JzUx7_-Ui086yrE4/view?usp=drivesdk)
