@@ -16,9 +16,9 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 - ### Backend Development
    NodeJS (Express), PHP (LeafPHP), Python (FastAPI). 
 - ### Cloud Computing
-   GCP, Cloud Run, Firestore, Cloud Function, AWS, AWS Fargate, Kubernetes. 
+   GCP, Kubernetes, Cloud Run, Firestore, Cloud Function, Docker, Docker Compose, SSHing, AWS, AWS Fargate. 
 - ### Web3
-- Solidity, Remix, Ethers.js. 
+- Solidity, Remix, Ethers.js, Wallet Integration. 
 ## See my CV
 [Résumé](https://drive.google.com/file/d/1NA3VRqWrS9iq2JF7JzUx7_-Ui086yrE4/view?usp=drivesdk)
 
