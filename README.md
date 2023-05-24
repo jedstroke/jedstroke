@@ -24,6 +24,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 
 ## Buy me a beer 😊
 <b>USDT ERC20:</b>
-```0xdb7295b36236d766200d5382f26170b8db7bf9df
+```javascript
+0xdb7295b36236d766200d5382f26170b8db7bf9df
 ```
 
