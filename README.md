@@ -1,4 +1,4 @@
-# Jedidiah Gabriel 🏽👋🏼 
+# Jedidiah Gabriel 👋🏼
 
 [Everything I Do Is For Joan](https://joan.onrender.com)
 
