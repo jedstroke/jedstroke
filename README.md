@@ -12,7 +12,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 
 ## I work with
 - ### Frontend Development
-   React, Angular, Next.js, React Native, Flutter, Ionic, ElectronJS.
+   React, Angular, Next.js, React Native, Flutter, Ionic, ElectronJS, Figma (implementing any Figma design for any device).
 - ### Backend Development
    NodeJS (Express), PHP (LeafPHP), Python (FastAPI). 
 - ### Cloud Computing
