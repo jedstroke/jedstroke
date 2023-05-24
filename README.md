@@ -6,7 +6,7 @@ I am an innovative and hardworking young man who hopes to live for a cause bigge
 
 ### I am open to:
 
-- Be hired 🙂
+- Be hired 🙇🏼‍♂️
 - Work oppurtunities (gigs, offers and more).
 - One on one tutorial.
 - Collaborate and build something interesting.
