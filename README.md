@@ -23,7 +23,7 @@ If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedsho
 [Résumé](https://drive.google.com/file/d/1NA3VRqWrS9iq2JF7JzUx7_-Ui086yrE4/view?usp=drivesdk)
 
 ## Buy me a beer 😊
-<b>USDT ERC20:</b>
+<b>USDT ERC-20:</b>
 ```javascript
 0xdb7295b36236d766200d5382f26170b8db7bf9df
 ```
