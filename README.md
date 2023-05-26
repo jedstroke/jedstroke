@@ -8,7 +8,7 @@ I am an innovative and hardworking young man who hopes to live for a cause bigge
 - One on one tutorial.
 - Collaborate and build something interesting.
 
-If you'd love to talk, just send me a [DM on Twitter](https://twitter.com/jedshock)
+If you'd love to talk, just send me a <code>[DM on Twitter](https://twitter.com/jedshock)</code>
 
 ## I work with
 - ### Frontend Development
