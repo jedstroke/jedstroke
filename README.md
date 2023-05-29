@@ -1,5 +1,5 @@
 # Jedidiah Gabriel 👋🏼
-<code>[Everything I Do Is For Joan.](https://joan.onrender.com)</code><br>
+<code>[Everything I Do Is For Joan.](https://joan.jedshock.com/)</code><br>
 I am an innovative and hardworking young man who hopes to live for a cause bigger than life, with a scientific approach to solving problems in the most optimal way, and guiding every pixel aesthetically & never letting them go astray. I guilt-trip on every bug that goes unnoticed/noticed. I am not the best out there, but I do my very best in different hats. I am Jedidiah Gabriel, a lifelong learner, and a software engineer.
 
 ### I am open to:
