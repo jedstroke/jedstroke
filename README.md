@@ -20,7 +20,7 @@ If you'd love to talk, just send me a <code>[DM on Twitter](https://twitter.com/
 - ### Web3
 - Solidity, Remix, Ethers.js, Wallet Integration. 
 ## See my CV
-<code>[Résumé](https://drive.google.com/file/d/1NA3VRqWrS9iq2JF7JzUx7_-Ui086yrE4/view?usp=drivesdk)</code>
+<code>[Résumé](https://drive.google.com/file/d/1gDYY5huOZWYo9QTJN20EJVVpIGh3Qvx5/view?usp=sharing)</code>
 
 ## Buy me a beer 😊
 <b>USDT ERC-20:</b>
