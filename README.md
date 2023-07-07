@@ -19,9 +19,9 @@ I am an innovative and hardworking young man who hopes to live for a cause bigge
 - ### Web3
 - Solidity, Remix, Ethers.js, Wallet Integration. 
 ## See my Résumé
-<code>[Résumé](https://drive.google.com/file/d/1gDYY5huOZWYo9QTJN20EJVVpIGh3Qvx5/view?usp=sharing)</code>
+<code>[Résumé](https://drive.google.com/file/d/14jistk3tFFJuH_6WnUmAUUgmo6aHXwm5/view?usp=sharing)</code>
 
-## Buy me a Pizza
+## Support Me
 <b>USDT-ERC20 (use the Polygon Network fees are cheaper):</b>
 ```javascript
 0xdb7295b36236d766200d5382f26170b8db7bf9df
