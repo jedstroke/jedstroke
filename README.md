@@ -11,19 +11,19 @@ I am an innovative and hardworking young man who hopes to live for a cause bigge
 
 ## I work with
 - ### Frontend Development
-   React, Angular, Next.js, React Native, Flutter, Ionic, ElectronJS, Figma (implementing Figma designs).
+   React, Angular, Next.js, React Native, Flutter, Ionic, TypeScript, ElectronJS, Figma (implementing Figma designs).
 - ### Backend Development
-   NodeJS (Express), PHP (LeafPHP), Python (FastAPI). 
+   NodeJS (Express), PHP (LeafPHP & Laravel), Python (FastAPI), Prisma (DB). 
 - ### Cloud Computing
-   GCP, Kubernetes, Cloud Run, Firestore, Cloud Function, Docker, Docker Compose, SSHing, AWS, AWS Fargate. 
+   GCP, Kubernetes, Cloud Run, Firestore, Cloud Function, Docker, Docker Compose, SSHing, AWS, EC2, VM, AWS Fargate. 
 - ### Web3
-- Solidity, Remix, Ethers.js, Wallet Integration. 
+- Solidity, Remix, Ethers.js, Wagmi, Wallet Integration. 
 ## See my Résumé
 <code>[Résumé](https://drive.google.com/file/d/14jistk3tFFJuH_6WnUmAUUgmo6aHXwm5/view?usp=sharing)</code>
 
 ## Support Me
 <b>USDC/USDT (PoS) (Polygon Network):</b>
-```javascript
+```solidity
 0xdb7295b36236d766200d5382f26170b8db7bf9df
 ```
 
