@@ -22,7 +22,7 @@ I am an innovative and hardworking young man who hopes to live for a cause bigge
 <code>[Résumé](https://drive.google.com/file/d/14jistk3tFFJuH_6WnUmAUUgmo6aHXwm5/view?usp=sharing)</code>
 
 ## Support Me
-<b>USDT-ERC20:</b>
+<b>USDC/USDT (PoS) (Polygon Network):</b>
 ```javascript
 0xdb7295b36236d766200d5382f26170b8db7bf9df
 ```
