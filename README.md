@@ -11,13 +11,13 @@ I am an innovative and hardworking young man who hopes to live for a cause bigge
 
 ## I work with
 - ### Frontend Development
-   React, Angular, Next.js, React Native, Flutter, Ionic, TypeScript, ElectronJS, Figma (implementing Figma designs).
+   React, Angular, Next.js,  Remix, React Native, Flutter, Ionic, TypeScript, ElectronJS, Figma (implementing Figma designs).
 - ### Backend Development
    NodeJS (Express), PHP (LeafPHP & Laravel), Python (FastAPI), Prisma (DB). 
 - ### Cloud Computing
    GCP, Kubernetes, Cloud Run, Firestore, Cloud Function, Docker, Docker Compose, SSHing, AWS, EC2, VM, AWS Fargate. 
 - ### Web3
-- Solidity, Remix, Ethers.js, Wagmi, Wallet Integration. 
+- Solidity, Ethers.js, Wagmi, Viem, Wallet Integration. 
 ## See my Résumé
 <code>[Résumé](https://drive.google.com/file/d/14jistk3tFFJuH_6WnUmAUUgmo6aHXwm5/view?usp=sharing)</code>
 
