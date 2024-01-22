@@ -1,6 +1,6 @@
 # Jedidiah Gabriel 👋🏼
 <code>[Everything I Do Is For Joan.](https://loml.jedshock.com/)</code><br>
-I am an innovative and hardworking young man who hopes to live for a cause bigger than life, with a scientific approach to solving problems in the most optimal way, and guiding every pixel aesthetically & never letting them go astray. I guilt-trip on every bug that goes unnoticed/noticed. I am not the best out there, but I do my very best in different hats. I am Jedidiah Gabriel, a lifelong learner, and a software engineer.
+I am an innovative and diligent individual aspiring to contribute to a purpose larger than life. Employing a scientific approach, I tackle problems optimally and ensure every pixel is aesthetically aligned. I take responsibility for every unnoticed or noticed bug, striving to deliver my very best while wearing various hats. I am Jedidiah Gabriel, a lifelong learner, and a software engineer.
 
 ### I am open to:
 - Work opportunities (gigs, offers, and more).
@@ -19,7 +19,7 @@ I am an innovative and hardworking young man who hopes to live for a cause bigge
 - ### Web3
 - Solidity, Ethers.js, Wagmi, Viem, Wallet Integration. 
 ## See my Résumé
-<code>[Résumé](https://drive.google.com/file/d/14jistk3tFFJuH_6WnUmAUUgmo6aHXwm5/view?usp=sharing)</code>
+<code>[Résumé](https://drive.google.com/file/d/1HD6QPsZmdv9HgWRaI4vqDVGeOHgPMJ0V/view?usp=sharing)</code>
 
 ## Support Me
 <b>USDC/USDT (PoS) (Polygon Network):</b>
