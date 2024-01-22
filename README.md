@@ -19,7 +19,7 @@ I am an innovative and diligent individual aspiring to contribute to a purpose l
 - ### Web3
 - Solidity, Ethers.js, Wagmi, Viem, Wallet Integration. 
 ## See my Résumé
-<code>[Résumé](https://drive.google.com/file/d/1HD6QPsZmdv9HgWRaI4vqDVGeOHgPMJ0V/view?usp=sharing)</code>
+Download <code>[Résumé](https://drive.google.com/file/d/1HD6QPsZmdv9HgWRaI4vqDVGeOHgPMJ0V/view?usp=sharing)</code> to view well.
 
 ## Support Me
 <b>USDC/USDT (PoS) (Polygon Network):</b>
