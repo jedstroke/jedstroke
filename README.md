@@ -1,13 +1,16 @@
 # Jedidiah Gabriel 👋🏼
 <code>[Everything I Do Is For Joan.](https://loml.jedshock.com/)</code><br>
-I am an innovative and diligent individual aspiring to contribute to a purpose larger than life. Employing a scientific approach, I tackle problems optimally and ensure every pixel is aesthetically aligned. I take responsibility for every unnoticed or noticed bug, striving to deliver my very best while wearing various hats. I am Jedidiah Gabriel, a lifelong learner, and a software engineer.
+I am an innovative and diligent individual aspiring to contribute to a purpose larger than life. Employing a scientific approach, I tackle problems optimally and ensure every pixel is aesthetically aligned. I take responsibility for every unnoticed or noticed bug, striving to deliver my very best while wearing various hats. I am Jedidiah Gabriel, a lifelong learner, and a software engineer. 
+
+### JSYK:
+The projects pinned might not be very React idiomatic, or have your ideal React directory structure because I was keen on the results & once wrote bad code.  
 
 ### I am open to:
 - Work opportunities (gigs, offers, and more).
 - One-on-one tutorial.
 - Collaborate and build something interesting.
 
-#### If you'd love to talk, just send me a <code>[DM on Twitter](https://twitter.com/jedshock)</code>
+#### If you'd love to talk, send me a <code>[DM on Twitter](https://twitter.com/jedshock)</code>
 
 ## I work with
 - ### Frontend Development
@@ -22,7 +25,7 @@ I am an innovative and diligent individual aspiring to contribute to a purpose l
 Download <code>[Résumé](https://drive.google.com/file/d/1HD6QPsZmdv9HgWRaI4vqDVGeOHgPMJ0V/view?usp=sharing)</code> to view well.
 
 ## Support Me
-<b>USDC/USDT (PoS) (Polygon Network):</b>
+<b>USDC/USDT (Polygon Network):</b>
 ```solidity
 0xdb7295b36236d766200d5382f26170b8db7bf9df
 ```
