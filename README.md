@@ -7,7 +7,7 @@ I am an innovative and diligent individual aspiring to contribute to a purpose l
 The projects pinned might not be very React idiomatic, or have your ideal React directory structure because I was keen on the results & once wrote bad code.  
 
 ### I am open to:
-- Work opportunities (gigs, offers, and more). I will Buidl your project: [https://calendly.com/jedshock/](https://calendly.com/jedshock/)
+- Work opportunities (gigs, offers, and more). I will BUIDL your project: [https://calendly.com/jedshock/](https://calendly.com/jedshock/)
 - One-on-one tutorial.
 - Collaborate and build something interesting.
 
