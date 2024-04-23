@@ -15,9 +15,9 @@ If you'd love to talk, send me a <code>[DM on Twitter](https://twitter.com/jedsh
 
 ### I work with
 - #### Frontend Development
-   `React, Angular, Next.js, Remix, React Native, Flutter, Ionic, TypeScript, ElectronJS, Figma (implementing Figma designs)`
+   `React, Angular, Next.js, Remix, React Native, Flutter, Ionic, TypeScript, ElectronJS, Figma (implementing Figma designs), Sass, Tailwind, MUI`
 - #### Backend Development
-   `NodeJS (Express), PHP (LeafPHP & Laravel), Python (FastAPI), NoSQL, SQL, Prisma (ORM)`
+   `NodeJS (Express), PHP (LeafPHP & Laravel), Python (FastAPI), NoSQL, SQL, Prisma (ORM), Mongoose`
 - #### Cloud Computing
    `GCP, Kubernetes, Cloud Run, Firestore, Cloud Function, Docker, Docker Compose, SSHing, AWS, EC2, VM, AWS Fargate.` 
 - #### Web3
