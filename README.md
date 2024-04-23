@@ -27,7 +27,7 @@ Download <code>[Résumé](https://drive.google.com/file/d/1HD6QPsZmdv9HgWRaI4vqD
 
 ### Support Me:
 <b>Ethereum:</b>
-```javascript
+```bash
 0xdb7295b36236d766200d5382f26170b8db7bf9df
 ```
 
