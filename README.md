@@ -26,7 +26,7 @@ If you'd love to talk, send me a <code>[DM on Twitter](https://twitter.com/jedsh
 Download <code>[Résumé](https://drive.google.com/file/d/1HD6QPsZmdv9HgWRaI4vqDVGeOHgPMJ0V/view?usp=sharing)</code>
 
 ### Support Me:
-<b>USDC/USDT (Polygon Network):</b>
+<b>Ethereum:</b>
 ```javascript
 0xdb7295b36236d766200d5382f26170b8db7bf9df
 ```
