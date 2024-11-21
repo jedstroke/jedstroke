@@ -23,7 +23,7 @@ If you'd love to talk, send me a <code>[DM on Twitter](https://twitter.com/jedsh
 - #### Web3
    `Solidity, Ethers.js, Wagmi, Viem, Wallet Integration` 
 ### See my Résumé:
-Download <code>[Résumé](https://drive.google.com/file/d/1HD6QPsZmdv9HgWRaI4vqDVGeOHgPMJ0V/view?usp=sharing](https://app.enhancv.com/share/751dd971/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic))</code>
+Download <code>[Résumé](https://app.enhancv.com/share/751dd971/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)</code>
 
 ### Support Me:
 <b>Ethereum:</b>
