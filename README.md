@@ -21,13 +21,17 @@ If you'd love to talk, send me a <code>[DM on Twitter](https://twitter.com/jedsh
 - #### Cloud Computing
    `GCP, Kubernetes, Cloud Run, Firestore, Cloud Function, Docker, Docker Compose, SSHing, AWS, EC2, VM, AWS Fargate.` 
 - #### Web3
-   `Solidity, Ethers.js, Wagmi, Viem, Wallet Integration` 
-### See my Résumé:
-Download <code>[Résumé](https://app.enhancv.com/share/751dd971/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)</code>
+   `Starknet.js, Solidity, Ethers.js, Wagmi, Viem, Wallet Integration` 
+### See my Portfolio:
+<code>[Website](https://www.jedshock.com)</code>
 
 ### Support Me:
 <b>Ethereum:</b>
 ```bash
 0xdb7295b36236d766200d5382f26170b8db7bf9df
+```
+<b>Starknet:</b>
+```bash
+0x074b311d81d40462eE3066ebf1ec586BDa531Bfdb66612AE36BDEe82d7BceA44
 ```
 
